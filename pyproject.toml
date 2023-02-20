@@ -8,7 +8,7 @@ version = "0.0.1"
 authors = [
   { name="Wieger Wesselink", email="j.w.wesselink@tue.nl" },
 ]
-description = "A small example package"
+description = "A PyPi example package"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/wiegerw/sampleproject"
-"Bug Tracker" = "https://github.com/wiegerw/sampleproject/issues"
+"Homepage" = "https://github.com/wiegerw/pypi_example"
+"Bug Tracker" = "https://github.com/wiegerw/pypi_example/issues"
